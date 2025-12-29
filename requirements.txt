@@ -1,0 +1,20 @@
+# Core dependencies
+biopython>=1.81
+nltk>=3.8
+python-dotenv>=1.0.0
+
+# LangChain for embeddings and LLM
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+
+# Optional: for better sentence tokenization
+# Run: python -c "import nltk; nltk.download('punkt')" after installation
+
+# Optional: for numerical operations (speeds up cosine similarity)
+numpy>=1.24.0
+
+# MCP (Model Context Protocol) support
+# Note: This project includes a simplified MCP implementation
+# For production use, consider using the official MCP SDK when available
+
