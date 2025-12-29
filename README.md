@@ -1,7 +1,6 @@
 # PubMed Sentence Matcher
 
-A standalone, high-accuracy sentence matching system that finds the most relevant sentences in PubMed articles for any given input sentence. This project has been extracted from GPT-Researcher and can be used independently.
-
+A standalone, high-accuracy sentence matching system that finds the most relevant sentences in PubMed articles for any given input sentences. 
 ## Features
 
 - **6-Stage Processing Pipeline**: LLM query optimization → Multi-strategy search → Full-text retrieval → Multi-signal similarity → LLM verification → Final ranking
