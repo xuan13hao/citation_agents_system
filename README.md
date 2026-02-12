@@ -134,6 +134,20 @@ pubmed_sentence_matcher_project/
 4. **Stage 4**: Calculate multi-signal similarity (semantic + keyword + structure + context)
 5. **Stage 5**: LLM verifies matches for accuracy and relevance
 6. **Stage 6**: Final ranking with deduplication and quality scoring
+## ✍️ Citation
+If you have obtained permission and are using this software in your project, please cite the software repository as follows:
+**Software Citation (BibTeX):**
+```bibtex
+@software{pubmed_sentence_matcher_2026,
+  author = {Xuan, Hao},
+  title = {PubMed Sentence Matcher: A multi-stage high-accuracy sentence matching system for biomedical literature},
+  year = {2026},
+  url = {(https://github.com/xuan13hao/citation_agents_system)},
+  note = {Software available upon request/permission from author}
+}
+## Copyright (c) 2026 Hao Xuan. All Rights Reserved.
+This software and its associated documentation files are proprietary. Explicit written permission from the author is required for any use, reproduction, modification, or distribution of this code, whether for commercial or non-commercial purposes.
+To request permission, please contact:xuan13hao@gmail.com
 
 ## Requirements
 
