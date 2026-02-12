@@ -142,7 +142,7 @@ If you have obtained permission and are using this software in your project, ple
   author = {Xuan, Hao},
   title = {PubMed Sentence Matcher: A multi-stage high-accuracy sentence matching system for biomedical literature},
   year = {2026},
-  url = {https://github.com/xuan13hao/citation_agents_system},
+  url = {https://github.com/xuan13hao/citation_agents_system}
 }
 ```
 ## Copyright (c) 2026 Hao Xuan. All Rights Reserved.
