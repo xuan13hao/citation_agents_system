@@ -142,13 +142,12 @@ If you have obtained permission and are using this software in your project, ple
   author = {Xuan, Hao},
   title = {PubMed Sentence Matcher: A multi-stage high-accuracy sentence matching system for biomedical literature},
   year = {2026},
-  url = {(https://github.com/xuan13hao/citation_agents_system)},
-  note = {Software available upon request/permission from author}
+  url = {https://github.com/xuan13hao/citation_agents_system},
 }
+```
 ## Copyright (c) 2026 Hao Xuan. All Rights Reserved.
 This software and its associated documentation files are proprietary. Explicit written permission from the author is required for any use, reproduction, modification, or distribution of this code, whether for commercial or non-commercial purposes.
 To request permission, please contact:xuan13hao@gmail.com
-
 ## Requirements
 
 - Python 3.8+
